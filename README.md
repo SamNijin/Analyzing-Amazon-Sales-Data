@@ -8,7 +8,9 @@
 
 Created important documents like HLD, LLD, Wireframe, Architecture and Entire project Report.
   
-Achievements: 1. Learned and created, HLD, LLD, Wireframe, Architecture and Entire project Report more effectively.
+Achievements:  
+  
+             1. Learned and created, HLD, LLD, Wireframe, Architecture and Entire project Report more effectively.
   
               2. Got Inductry level experince while working on this project.
   
