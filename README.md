@@ -19,5 +19,15 @@ Achievements:
               4. Succesfully Delivered all the requirments that had been asked by INeuron.
   
               5. Delgated each task and completed entire project with enthusiasm.
+              
+              6. Succesfully applied ETL and EDA to our project.
+  
+              7. Gained knowledge of E-commerce Domain.
+    
+              8. Enhanced Analytical Skills.
+   
+              9. Provided Actionable and effective recommendations
+  
+              10. Got appreciation from INeuron after this project.
   
 
