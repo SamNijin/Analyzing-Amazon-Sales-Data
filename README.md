@@ -4,7 +4,7 @@
   
 **Tools**: Python, Jupyter Notebook, PowerBI and Google Slides.
   
-**Process**: We have perfomed ETL(Extract, Transform and Load) in this project Extracted data from Ineuron site then transformed in jupyter notebook in the end loaded into powerbi and made visualization and provided recommendations. 
+**Process**: We have perfomed ETL(Extract, Transform and Load)  in this project Extracted data from Ineuron site then transformed in jupyter notebook and applied EDA (Exploratory Data Analysis) in the end loaded into powerbi and made visualization and provided recommendations. 
 
 Created important documents like HLD, LLD, Wireframe, Architecture and Entire project Report.
   
