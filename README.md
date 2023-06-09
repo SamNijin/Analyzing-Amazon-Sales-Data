@@ -9,9 +9,13 @@
 Created important documents like HLD, LLD, Wireframe, Architecture and Entire project Report.
   
 Achievements: 1. Learned and created, HLD, LLD, Wireframe, Architecture and Entire project Report more effectively.
+  
               2. Got Inductry level experince while working on this project.
+  
               3. Showed Team work during project.
+  
               4. Succesfully Delivered all the requirments that had been asked by INeuron.
+  
               5. Delgated each task and completed entire project with enthusiasm.
   
 
